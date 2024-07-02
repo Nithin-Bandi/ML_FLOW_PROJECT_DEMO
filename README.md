@@ -54,7 +54,7 @@ pip install mlflow
 `mlflow run . --experiment-name Loan_prediction`  # run from folder where `MLProject` file is present
 
 - Run from git repository
-`mlflow run https://github.com/manifoldailearning/ml-flow-project --experiment-name Loan_prediction` 
+`mlflow run https://github.com/Nithin-Bandi/ML_FLOW_PROJECT_DEMO --experiment-name Loan_Prediction_with_dependencies` 
 
 # MLFlow Models
 - install virtualenv
